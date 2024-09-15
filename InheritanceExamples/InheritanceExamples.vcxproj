@@ -136,6 +136,10 @@
     <ClCompile Include="MultipleInheritanceEx.cpp" />
     <ClCompile Include="ParameterConsINInheritance.cpp" />
     <ClCompile Include="SingleInheritanceEx.cpp" />
+    <ClCompile Include="testclass.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="testclass.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

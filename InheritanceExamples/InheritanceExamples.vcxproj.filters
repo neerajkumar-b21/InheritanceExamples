@@ -42,5 +42,13 @@
     <ClCompile Include="Banking.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="testclass.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="testclass.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
